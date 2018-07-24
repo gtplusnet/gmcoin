@@ -1,0 +1,9 @@
+Building GMCoin
+
+See doc/readme-qt.rst for instructions on building GMCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of GMCoin.
+
+See doc/build-*.txt for instructions on building gmcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of GMCoin.
